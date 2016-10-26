@@ -31,5 +31,34 @@ by [**Rafał Pocztarski**](https://pocztarski.com/)
 
 Work in progress...
 
-Table of contents:
+Table of contents
+-----------------
+* [Mockups](#mockups)
 
+Mockups
+-------
+Tools to make mockups of devices showing your web design:
+
+* [Placeit](https://placeit.net/)
+* [Dunnnk](http://dunnnk.com/)
+* [Magic Mockups](http://magicmockups.com/)
+* [Multi Device Website Mockup Generator](http://techsini.com/multi-mockup/)
+* [Am I Responsive?](http://ami.responsivedesign.is/)
+* [MockUPhone](http://mockuphone.com/)
+
+More resources:
+
+* [A list of mockup tools in an article that doesn't let me copy and paste its title here](http://techsini.com/5-free-mockup-tools-to-display-your-template-on-different-devices/)
+
+Author
+------
+[**Rafał Pocztarski**](https://pocztarski.com/)
+<br/>
+[![Follow on GitHub][github-follow-img]][github-follow-url]
+[![Follow on Twitter][twitter-follow-img]][twitter-follow-url]
+<br/>
+[![Follow on Stack Exchange][stackexchange-img]][stackoverflow-url]
+
+Share
+-----
+[Tweet the link to this article][tweet-url]
