@@ -1,4 +1,4 @@
-Text Editors [![GitHub Stars][stars-img]][stars-url] [![GitHub Forks][forks-img]][forks-url] [![GitHub Watchers][watchers-img]][watchers-url] ![Tweet][tweet-img]
+Interesting Text Editors Collection [![GitHub Stars][stars-img]][stars-url] [![GitHub Forks][forks-img]][forks-url] [![GitHub Watchers][watchers-img]][watchers-url] [![Tweet][tweet-img]][tweet-url]
 =
 [github-url]: https://github.com/rsp/info
 [readme-url]: https://github.com/rsp/info#readme
@@ -7,7 +7,7 @@ Text Editors [![GitHub Stars][stars-img]][stars-url] [![GitHub Forks][forks-img]
 [watchers-url]: https://github.com/rsp/info/watchers
 [forks-url]: https://github.com/rsp/info/network/members
 [tweet-img]: https://img.shields.io/twitter/url/https/github.com/rsp/info/blob/master/text-editors.md.svg?style=social
-[tweet-url]: https://twitter.com/intent/tweet?text=Interesting+text+editors+collection+by+@pocztarski:&url=https%3A%2F%2Fgithub.com%2Frsp%2Finfo%2Fblob%2Fmaster%2Ftext-editors.md
+[tweet-url]: https://twitter.com/intent/tweet?text=Interesting+Text+Editors+Collection+by+@pocztarski:&url=https%3A%2F%2Fgithub.com%2Frsp%2Finfo%2Fblob%2Fmaster%2Ftext-editors.md
 [license-url]: https://github.com/rsp/info/blob/master/LICENSE.md
 [license-img]: https://img.shields.io/github/license/rsp/info.svg
 [stars-img]: https://img.shields.io/github/stars/rsp/info.svg?style=social&amp;label=Stars
