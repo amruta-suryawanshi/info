@@ -10,9 +10,9 @@ https://github.com/rsp/info
 [forks-url]: https://github.com/rsp/info/network/members
 [license-url]: https://github.com/rsp/info/blob/master/LICENSE.md
 [license-img]: https://img.shields.io/github/license/rsp/info.svg
-[stars-img]: https://img.shields.io/github/stars/rsp/scripts.svg?style=social&amp;label=Stars
-[forks-img]: https://img.shields.io/github/forks/rsp/scripts.svg?style=social&amp;label=Forks
-[watchers-img]: https://img.shields.io/github/watchers/rsp/scripts.svg?style=social&amp;label=Watchers
+[stars-img]: https://img.shields.io/github/stars/rsp/info.svg?style=social&amp;label=Stars
+[forks-img]: https://img.shields.io/github/forks/rsp/info.svg?style=social&amp;label=Forks
+[watchers-img]: https://img.shields.io/github/watchers/rsp/info.svg?style=social&amp;label=Watchers
 [travis-url]: https://travis-ci.org/rsp/info
 [travis-img]: https://travis-ci.org/rsp/info.svg?branch=master
 [snyk-url]: https://snyk.io/test/github/rsp/info
