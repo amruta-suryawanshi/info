@@ -1,4 +1,4 @@
-rsp/info [![License][license-img]][license-url] [![GitHub Stars][stars-img]][stars-url] [![GitHub Forks][forks-img]][forks-url] [![GitHub Watchers][watchers-img]][watchers-url]
+rsp/info [![License][license-img]][license-url] [![GitHub Stars][stars-img]][stars-url] [![GitHub Forks][forks-img]][forks-url] [![GitHub Watchers][watchers-img]][watchers-url] [![Tweet][tweet-img]][tweet-url]
 ====
 https://github.com/rsp/info
 
@@ -8,6 +8,8 @@ https://github.com/rsp/info
 [stars-url]: https://github.com/rsp/info/stargazers
 [watchers-url]: https://github.com/rsp/info/watchers
 [forks-url]: https://github.com/rsp/info/network/members
+[tweet-img]: https://img.shields.io/twitter/url/https/github.com/rsp/info.svg?style=social
+[tweet-url]: https://twitter.com/intent/tweet?text=rsp/info+by+@pocztarski:&url=https%3A%2F%2Fgithub.com%2Frsp%2Finfo
 [license-url]: https://github.com/rsp/info/blob/master/LICENSE.md
 [license-img]: https://img.shields.io/github/license/rsp/info.svg
 [stars-img]: https://img.shields.io/github/stars/rsp/info.svg?style=social&amp;label=Stars
