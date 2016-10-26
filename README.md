@@ -1,4 +1,4 @@
-rsp/info [![License][license-img]][license-url] [![GitHub Stars][stars-img]][stars-url] [![GitHub Forks][forks-img]][forks-url] [![GitHub Watchers][watchers-img]][watchers-url] [![Tweet][tweet-img]][tweet-url]
+rsp/info [![GitHub Stars][stars-img]][stars-url] [![GitHub Forks][forks-img]][forks-url] [![GitHub Watchers][watchers-img]][watchers-url] [![Tweet][tweet-img]][tweet-url]
 ====
 https://github.com/rsp/info
 
@@ -28,6 +28,12 @@ https://github.com/rsp/info
 [stackexchange-img]: https://stackexchange.com/users/flair/303952.png
 
 Random info, links, software, resources - collected by [Rafał Pocztarski](https://pocztarski.com/).
+
+Table of contents
+-----------------
+* [Interesting Text Editors Collection](text-editors.md) - my collection of editors worth knowing about
+* [Scripts](https://github.com/rsp/scripts) - some shell scripts I wrote for Stack Overflow answers
+* [Projects](https://github.com/rsp/rsp-projects) - some links to my projects and articles
 
 Work in progress...
 
