@@ -1,5 +1,10 @@
 Text Editors
 =
+A collection of interesting text editors - by [Rafał Pocztarski](https://pocztarski.com/).
+
+Originally posted as a Gist [here](https://gist.github.com/rsp/b8e341a7fe9bf538e59038f6854c9442).
+See [github.com/rsp/info](https://github.com/rsp/info) for more info.
+
 Interesting text editors. Some very old, some very new. Some standalone, some in the cloud.
 
 * [vi](#vi)
