@@ -25,13 +25,16 @@ Interesting Text Editors Collection [![GitHub Stars][stars-img]][stars-url] [![G
 [stackexchange-url]: https://stackexchange.com/users/303952/rsp
 [stackexchange-img]: https://stackexchange.com/users/flair/303952.png
 
-### by [Rafał Pocztarski](https://pocztarski.com/) [![Follow on GitHub][github-follow-img]][github-follow-url]
+by [**Rafał Pocztarski**](https://pocztarski.com/)
+[![Follow on GitHub][github-follow-img]][github-follow-url]
 [![Follow on Twitter][twitter-follow-img]][twitter-follow-url]
 
-Originally posted as a Gist [here](https://gist.github.com/rsp/b8e341a7fe9bf538e59038f6854c9442).
-See [github.com/rsp/info](https://github.com/rsp/info) for more info.
-
 Interesting text editors. Some very old, some very new. Some standalone, some in the cloud.
+
+Originally posted as a Gist [here](https://gist.github.com/rsp/b8e341a7fe9bf538e59038f6854c9442).
+See [github.com/rsp/info](https://github.com/rsp/info) for more stuff.
+
+Table of contents:
 
 * [vi](#vi)
 * [Emacs](#emacs)
