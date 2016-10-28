@@ -32,6 +32,7 @@ Random info, links, software, resources - collected by [Rafał Pocztarski](https
 Table of contents
 -----------------
 * [Interesting Text Editors Collection](text-editors.md) - my collection of editors worth knowing about
+* [Git tips](git-tips.md) - some tips for working with git repos
 * [Scripts](https://github.com/rsp/scripts) - some shell scripts I wrote for Stack Overflow answers
 * [Projects](https://github.com/rsp/rsp-projects) - some links to my projects and articles
 
