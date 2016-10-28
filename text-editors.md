@@ -179,3 +179,16 @@ For testing HTML, CSS and JavaScript.
 Node playground in the browser.
 
 * Website: https://runkit.com/home
+
+Author
+------
+[**Rafał Pocztarski**](https://pocztarski.com/)
+<br/>
+[![Follow on GitHub][github-follow-img]][github-follow-url]
+[![Follow on Twitter][twitter-follow-img]][twitter-follow-url]
+<br/>
+[![Follow on Stack Exchange][stackexchange-img]][stackoverflow-url]
+
+Share
+-----
+[Tweet the link to this article][tweet-url]
