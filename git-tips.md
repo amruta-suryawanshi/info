@@ -29,7 +29,7 @@ by [**Rafał Pocztarski**](https://pocztarski.com/)
 [![Follow on GitHub][github-follow-img]][github-follow-url]
 [![Follow on Twitter][twitter-follow-img]][twitter-follow-url]
 
-Some of that ifo was originally written for my answers on Stack Overflow, see:
+Some of that info was originally written for my answers on Stack Overflow:
 
 [![Follow on Stack Exchange][stackexchange-img]][stackoverflow-url]
 
@@ -67,7 +67,7 @@ Pulling/fetching from "origin" will use only GitHub.
 
 It can be useful if you want to have a backup repo or if you want to use GitLab CI while promarily working on GitHub.
 
-Unlike Travis, GitLab CI has a modern GCC version installed by default but it only tests repos hosten on GitLab. Pushing your repo to both GitHub and GitLab can be used to test your code with modern GCC on GitLab CI.
+Unlike Travis, GitLab CI has a modern GCC version installed by default but it only tests repos hosted on GitLab. Pushing your repo to both GitHub and GitLab can be used to test your code with modern GCC on GitLab CI.
 
 Of course you can switch GitHub with GitLab and have it work the other way - pull from GitLab and push to both GitHub and GitLab.
 
@@ -92,7 +92,7 @@ and use "all" remote to push to both repos:
 ```sh
 git push all master
 ```
-but using "origin" may be more convenient if writing `git push origin master` (or (or [`gpom`](https://github.com/rsp/scripts/blob/master/gpom.md)) is in your muscle memory.
+but using "origin" may be more convenient if writing `git push origin master` (or [`gpom`](https://github.com/rsp/scripts/blob/master/gpom.md)) is in your muscle memory.
 
 Author
 ------
