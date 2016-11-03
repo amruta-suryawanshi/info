@@ -36,19 +36,23 @@ See [github.com/rsp/info](https://github.com/rsp/info) for more stuff.
 
 Table of contents:
 
-* [vi](#vi)
-* [Emacs](#emacs)
-* [Sublime Text](#sublime-text)
-* [Atom](#atom)
-* [Brackets](#brackets)
-* [Visual Studio Code](#visual-studio-code)
-* [Cloud9](#cloud9)
-* [repl.it](#replit)
-* [JS Bin](#js-bin)
-* [JSFiddle](#jsfiddle)
-* [CodePen](#codepen)
-* [Plunker](#plunker)
-* [RunKit](#runkit)
+* [Classic](#classic)
+  - [vi](#vi)
+  - [Emacs](#emacs)
+* [Modern](#moders)
+  - [Sublime Text](#sublime-text)
+  - [Atom](#atom)
+  - [Brackets](#brackets)
+  - [Visual Studio Code](#visual-studio-code)
+* [Could](#cloud)
+  - [Cloud9](#cloud9)
+* [REPL](#repl)
+  - [repl.it](#replit)
+  - [JS Bin](#js-bin)
+  - [JSFiddle](#jsfiddle)
+  - [CodePen](#codepen)
+  - [Plunker](#plunker)
+  - [RunKit](#runkit)
 
 Classic
 -
