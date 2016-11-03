@@ -39,7 +39,7 @@ Table of contents:
 * [Classic](#classic)
   - [vi](#vi)
   - [Emacs](#emacs)
-* [Modern](#moders)
+* [Modern](#modern)
   - [Sublime Text](#sublime-text)
   - [Atom](#atom)
   - [Brackets](#brackets)
