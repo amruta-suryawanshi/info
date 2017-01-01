@@ -45,10 +45,11 @@ Tools to make mockups of devices showing your web design:
 * [Multi Device Website Mockup Generator](http://techsini.com/multi-mockup/)
 * [Am I Responsive?](http://ami.responsivedesign.is/)
 * [MockUPhone](http://mockuphone.com/)
+* [PicApp](http://picapp.net/)
 
 More resources:
 
-* [A list of mockup tools in an article that doesn't let me copy and paste its title here](http://techsini.com/5-free-mockup-tools-to-display-your-template-on-different-devices/)
+* [A list of mockup tools in an article that amazingly doesn't let me copy and paste its title here](http://techsini.com/5-free-mockup-tools-to-display-your-template-on-different-devices/)
 
 Author
 ------
