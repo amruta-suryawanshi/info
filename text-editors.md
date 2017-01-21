@@ -136,6 +136,8 @@ Cloud
 ### Cloud9
 ![](https://img.shields.io/github/stars/c9/core.svg?style=social)
 <br>
+**Update: No longer recommended since it requires credit card number even for a free account. See Codeanywhere instead.
+<br>
 An online IDE. It is written almost entirely in JavaScript using Ace as the editor component
 and Node.js on the back-end. It uses Docker containers for its workspaces, and is hosted on Google Compute Engine.
 
